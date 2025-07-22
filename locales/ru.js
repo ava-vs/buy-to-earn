@@ -388,8 +388,8 @@ const ru = {
 
   // Hero
   hero: {
-    title: "Buy to Earn",
-    quote: "Buy to earn is a new way to earn money by buying products and services. It is a way to earn money by buying products and services. It is a way to earn money by buying products and services.",
+    title: "Заказ и Кешбек",
+    quote: "Новый способ получить отличный продукт с великолепным кешбеком!",
   }
 };
 
