@@ -315,7 +315,7 @@ const es = {
       buyersDetail: "Ingresos de ventas después de Prepagadores"
     },
     benefits: {
-      title: "Beneficios para Inversores",
+      title: "Beneficios para buyers",
       earlyInvestor: "Inversor Temprano",
       midInvestor: "Inversor Medio",
       lateInvestor: "Inversor Tardío",
@@ -349,11 +349,11 @@ const es = {
       balanced: "Equilibrado (80%)",
       equal: "Igualitario (60%)",
       highPriorityTitle: "Alta Prioridad (95%):",
-      highPriorityDesc: "Los inversores tempranos recuperan muy rápidamente, los tardíos mucho más lento. Crea 'olas de recuperación'.",
+      highPriorityDesc: "Los buyers tempranos recuperan muy rápidamente, los tardíos mucho más lento. Crea 'olas de recuperación'.",
       balancedTitle: "Equilibrado (80%):",
-      balancedDesc: "Velocidad media de recuperación para inversores tempranos, diferencias moderadas entre inversores tempranos y tardíos.",
+      balancedDesc: "Velocidad media de recuperación para buyers tempranos, diferencias moderadas entre buyers tempranos y tardíos.",
       equalTitle: "Igualitario (60%):",
-      equalDesc: "Ventaja menos pronunciada para inversores tempranos. Distribución más justa, pero recuperación más lenta.",
+      equalDesc: "Ventaja menos pronunciada para buyers tempranos. Distribución más justa, pero recuperación más lenta.",
       earlyTokens: "Token #1-100:",
       midToken: "Token #500:",
       lateToken: "Token #1000:"
